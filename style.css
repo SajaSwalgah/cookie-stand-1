@@ -1,0 +1,27 @@
+
+body{
+    background-color: hsl(33, 69%, 82%);
+  }
+
+h1 {
+    font-family: 'MuseoModerno', cursive;
+    color: blue;
+    background-color: rgb(229, 235, 247);
+    text-align: center;
+}
+
+h2 {
+    font-family: 'MuseoModerno', cursive;
+    margin: 20px;
+    margin-left: 50px;
+
+}
+ul {
+margin: 50px;
+padding-left: 50px;
+padding-right: 50px;
+
+background-color : rgb(226, 178, 178);
+opacity: 30;
+
+}
