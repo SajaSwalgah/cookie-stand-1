@@ -112,6 +112,7 @@ render : function(){
     var h2 = document.createElement('h2');
     h2.textContent = 'Tokyo';
     article.appendChild(h2);
+    // or article.append(h2);
 
     // var p = document.createElement('p');
     // p.textContent = Seattle ;
